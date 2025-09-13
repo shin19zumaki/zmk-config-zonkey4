@@ -13,6 +13,8 @@
     quick-tap-ms = <0>;
 };
 
+&mkp_input_listener { input-processors = <&zip_temp_layer 5 800>; };
+
 / {
     combos { compatible = "zmk,combos"; };
 
