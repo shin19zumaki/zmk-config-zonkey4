@@ -45,7 +45,7 @@ Auto Mouse Layerの設定を大幅に変更しています。<br>
 - 一部のキー（以下の19、20、21）以外の入力で直後に元のレイヤーに戻る様に変更
 - キー入力後0.8秒間はAuto Mouse Layerが有効にならない様に変更
 
-<img width="820" height="300" alt="image" src="https://github.com/user-attachments/assets/424fcc57-cd0c-4448-b937-c6edc064e07e" />
+<img width="820" height="300" alt="image" src="https://github.com/user-attachments/assets/7ff1f105-b240-46af-9263-9e1712fe4fda" />
 
 # トラブルシューティング
 
